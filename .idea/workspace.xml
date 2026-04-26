@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c933e45-8b08-4558-ba72-331dbf3373c5" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rubikscube/RubiksCube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rubikscube/RubiksCube.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;1felixk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/1felixk/CMPT225PROJECTFELIXGABE.git&quot;,
+    &quot;accountId&quot;: &quot;444e34f5-a867-422d-8519-ab792298175c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35oXyaGaDGArZ5t7exleBVa1M5c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Solver.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cybra/Documents/SIMON FRASER UNIVERSITY/FALL 2025/CMPT 225/CMPT225PROJECTFELIXGABE&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Solver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rubikscube.Solver" />
+      <module name="CMPT225PROJECTFELIXGABE" />
+      <option name="PROGRAM_PARAMETERS" value="grdedtestcases/scramble01.txt output01.txt grdedtestcases/scramble02.txt output02.txt grdedtestcases/scramble03.txt output03.txt grdedtestcases/scramble04.txt output04.txt grdedtestcases/scramble05.txt output05.txt grdedtestcases/scramble06.txt output06.txt grdedtestcases/scramble07.txt output07.txt grdedtestcases/scramble08.txt output08.txt grdedtestcases/scramble09.txt output09.txt grdedtestcases/scramble10.txt output10.txt grdedtestcases/scramble11.txt output11.txt grdedtestcases/scramble12.txt output12.txt grdedtestcases/scramble13.txt output13.txt grdedtestcases/scramble14.txt output14.txt grdedtestcases/scramble15.txt output15.txt grdedtestcases/scramble16.txt output16.txt grdedtestcases/scramble17.txt output17.txt grdedtestcases/scramble18.txt output18.txt grdedtestcases/scramble19.txt output19.txt grdedtestcases/scramble20.txt output20.txt grdedtestcases/scramble21.txt output21.txt grdedtestcases/scramble22.txt output22.txt grdedtestcases/scramble23.txt output23.txt grdedtestcases/scramble24.txt output24.txt grdedtestcases/scramble25.txt output25.txt grdedtestcases/scramble26.txt output26.txt grdedtestcases/scramble27.txt output27.txt grdedtestcases/scramble28.txt output28.txt grdedtestcases/scramble29.txt output29.txt grdedtestcases/scramble30.txt output30.txt grdedtestcases/scramble31.txt output31.txt grdedtestcases/scramble32.txt output32.txt grdedtestcases/scramble33.txt output33.txt grdedtestcases/scramble34.txt output34.txt grdedtestcases/scramble35.txt output35.txt grdedtestcases/scramble36.txt output36.txt grdedtestcases/scramble37.txt output37.txt grdedtestcases/scramble38.txt output38.txt grdedtestcases/scramble39.txt output39.txt grdedtestcases/scramble40.txt output40.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c933e45-8b08-4558-ba72-331dbf3373c5" name="Changes" comment="" />
+      <created>1763777654357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763777654357</updated>
+      <workItem from="1763777656192" duration="808000" />
+      <workItem from="1763778485953" duration="67000" />
+      <workItem from="1763778597597" duration="4426000" />
+      <workItem from="1763866203710" duration="2453000" />
+      <workItem from="1764017590360" duration="3761000" />
+      <workItem from="1764038238517" duration="139000" />
+      <workItem from="1764038400539" duration="18364000" />
+      <workItem from="1764189437165" duration="1669000" />
+      <workItem from="1764273269269" duration="1327000" />
+      <workItem from="1764370375585" duration="22136000" />
+      <workItem from="1764445045388" duration="6654000" />
+      <workItem from="1764455602752" duration="29982000" />
+      <workItem from="1764612825972" duration="7061000" />
+      <workItem from="1764623995890" duration="8134000" />
+      <workItem from="1764633212460" duration="601000" />
+      <workItem from="1764634532996" duration="2076000" />
+      <workItem from="1764653387779" duration="177000" />
+      <workItem from="1764659506160" duration="880000" />
+      <workItem from="1764724744872" duration="109000" />
+      <workItem from="1764726672586" duration="606000" />
+      <workItem from="1764734202473" duration="1932000" />
+      <workItem from="1764820933299" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1763777699501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763777699501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1764484030723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/rubikscube" />
+  </component>
+</project>
